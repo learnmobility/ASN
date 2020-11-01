@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "967689949520",
+    "firebase_url": "https://talks-6e7be.firebaseio.com",
+    "project_id": "talks-6e7be",
+    "storage_bucket": "talks-6e7be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967689949520:android:25352b8831e4a388749c55",
+        "android_client_info": {
+          "package_name": "com.asn.asna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967689949520-c4ftr86cob0n9lnok9ct0nftu88c0ict.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asn.asna",
+            "certificate_hash": "e7f96952360f1393766f2d2cb0576962c937bf24"
+          }
+        },
+        {
+          "client_id": "967689949520-umekmed8h7v047683efar9h6r0gsech9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSanMO4d3ZlxBh1fTrbc3IiGSoULAt-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967689949520-umekmed8h7v047683efar9h6r0gsech9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
